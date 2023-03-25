@@ -1,0 +1,13 @@
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portfolio img {
+    display: inline-block;
+    width: 170px;
+    border-radius: 2px;
+    margin-right: 10px;
+}
+
+
